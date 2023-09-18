@@ -1,5 +1,5 @@
 # Requirements file for 'cookiecutter-template'
-# Python 3.10+
+# Python 3.11+
 
 # Base dependencies
 cookiecutter>=2.2.0
