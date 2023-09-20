@@ -1,0 +1,4 @@
+[tool.ruff]
+extend-exclude = [
+    "hooks",
+]
