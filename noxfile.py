@@ -15,5 +15,5 @@ def tests(session):
 @nox.session
 def lint(session):
     """Lint using Ruff."""
-    install_requirements(session, "requirements-lint.txt")
+    install_requirements(session)
     session.run("ruff", "check", ".")
