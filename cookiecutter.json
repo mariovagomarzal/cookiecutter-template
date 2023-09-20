@@ -1,0 +1,9 @@
+{
+    "project_slug": "cookiecutter-template",
+    "author": "Your Name",
+    "license": [
+        "MIT",
+        "Apache-2.0",
+        "The-Unlicensed"
+    ]
+}
