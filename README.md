@@ -44,8 +44,9 @@ cookiecutter-template/
 ├── noxfile.py
 ├── pyproject.toml
 ├── requirements.txt
-├── tests
+├── tests/
 │   └── __init__.py
+├── hooks/
 └── {{cookiecutter.project_slug}}
 ```
 
