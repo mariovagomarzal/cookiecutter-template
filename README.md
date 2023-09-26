@@ -1,4 +1,4 @@
-# cookiecutter-template v0.1.0
+# cookiecutter-template v0.2.0
 
 Cookiecutter template is a template for creating... cookiecutter templates!
 
@@ -44,8 +44,9 @@ cookiecutter-template/
 ├── noxfile.py
 ├── pyproject.toml
 ├── requirements.txt
-├── tests
+├── tests/
 │   └── __init__.py
+├── hooks/
 └── {{cookiecutter.project_slug}}
 ```
 
