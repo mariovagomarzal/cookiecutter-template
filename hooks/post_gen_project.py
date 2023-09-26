@@ -10,7 +10,14 @@ def get_project_slug_name():
 
     return f"{lbrace}{lbrace}cookiecutter.project_slug{rbrace}{rbrace}"
 
+# Create the project slug directory
 Path(get_project_slug_name()).mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+# Create the hooks directory
+Path("hooks").mkdir(
     parents=True,
     exist_ok=True
 )

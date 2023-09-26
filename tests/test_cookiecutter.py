@@ -5,6 +5,7 @@ import pytest
 # Useful constants
 DIRECTORIES = [
     "{{cookiecutter.project_slug}}",
+    "hooks",
     "tests",
 ]
 FILES = [
