@@ -1,3 +1,7 @@
+cookiecutter-template-0.2.1 (2023-09-28)
+
+    * Fix: The README file was not being rendered correctly
+
 cookiecutter-template-0.2.0 (2023-09-26)
 
     * Create a `hooks` directory when creating the project

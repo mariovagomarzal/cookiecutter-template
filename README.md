@@ -1,4 +1,4 @@
-# cookiecutter-template v0.2.0
+# cookiecutter-template v0.2.1
 
 Cookiecutter template is a template for creating... cookiecutter templates!
 
